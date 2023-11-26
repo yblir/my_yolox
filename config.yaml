@@ -1,0 +1,16 @@
+classes_path: config/voc_classes.txt
+train_ann_path: config/2007_train.txt
+val_ann_path: config/2007_val.txt
+input_shape: [640,640]
+
+# 指定模型规格,l是正常模型大小
+phi: s
+mosaic: False
+cosine: False
+
+# 是否使用预训练模型
+resume: True
+model_path: weights/yolox_s.pth
+
+# 模型训练相关
+batch_sz: 4

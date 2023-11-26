@@ -1,0 +1,9 @@
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000023.jpg 9,230,245,500,1 230,220,334,500,1 2,1,117,369,14 3,2,243,462,14 225,1,334,486,14
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000039.jpg 156,89,344,279,19
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000078.jpg 15,75,475,412,11 94,41,437,238,11
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000089.jpg 20,7,183,355,14 98,215,429,374,14 332,140,455,366,14 22,51,317,291,8
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000104.jpg 403,110,500,265,19 291,75,442,333,14 2,7,283,333,14
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000146.jpg 155,208,252,408,14
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000150.jpg 186,78,319,264,12 353,54,379,108,14 415,51,436,109,14
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000159.jpg 234,48,286,124,14 1,16,498,333,6
+F:\GtiEE\my_yolox_pytorch\VOCdevkit/VOC2007/JPEGImages/000187.jpg 1,95,240,336,19
